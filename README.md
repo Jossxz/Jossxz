@@ -1,6 +1,6 @@
 - 🌱 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jossxz&show_icons=true&theme=radical)
+https://notjoss.vercel.app/
 
 ##
 
